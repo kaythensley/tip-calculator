@@ -1,2 +1,1 @@
-# tip-calculator
-# tip-calculator
+Practicing git with a lesson from Codecademy.
